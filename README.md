@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Esther Aruti | Data Scientist & Bioinformatician</title>
     <style>
         body { font-family: Times New Roman, sans-serif; line-height: 1.6; }
         .container { max-width: 800px; margin: auto; padding: 20px; }
