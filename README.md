@@ -1,4 +1,4 @@
-
+# Esther Aruti | Bioinformatician and Data Scientist
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +16,7 @@
         <h1>Esther Aruti</h1>
         <p>Data Scientist &amp; Bioinformatician</p>
         <h2>About Me</h2>
-        <p>I am a data scientist and bioinformatician with a strong background in biology, machine learning, and computational molecular biology. I'm currently pursuing a Master of Science in Data Science and Engineering at The City College of New York, and hold a Bachelor of Arts in Biology from Hunter College.</p>
+        <p>I am a data scientist and bioinformatician with a strong background in biology, machine learning, and medical image processing. I'm currently pursuing a Master of Science in Data Science and Engineering at The City College of New York, and hold a Bachelor of Arts in Biology with a concentration in Bioinformatics from Hunter College.</p>
 
         <h2>Technical Skills</h2>
         <ul>
