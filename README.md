@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+# Esther Aruti - Bioinformatician and Data Scientist
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +14,6 @@
 <body>
     <div class="container">
         <!-- Update the text in this <h1> tag -->
-        <h1>Esther Aruti | Bioinformatician and Data Scientist</h1>
         <h2>About Me</h2>
         <p>I am a data scientist and bioinformatician with a strong background in biology, machine learning, and medical image processing. I'm currently pursuing a Master of Science in Data Science and Engineering at The City College of New York, and hold a Bachelor of Arts in Biology with a concentration in Bioinformatics from Hunter College.</p>
 
